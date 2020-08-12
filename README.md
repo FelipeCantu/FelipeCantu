@@ -38,6 +38,9 @@
 <br />
 <br />
 
+--- 
+
+<img align="left" alt="FelipeCantuJr Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeCantu&show_icons=true&hide_border=true" />
 
 
 [website]: https://bref-maison-49079.herokuapp.com/
