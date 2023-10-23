@@ -1,11 +1,12 @@
-### Hello, I'm Felipe [felipecantujr.com][website]
+### Hello, I'm Felipe Cantu Jr 
+### Here is my website [felipecantujr.com][website]
 
 ## I am a Developer that loves to make music!
 - currently working on a mobile application project
 - I am also looking to collaborate with developers and designers
 - 2022 - 2023 Goals: Contribute more to open source projects
-- Freelancing on [Fiverr](www.fiverr.com/felipecantu)
-
+- Freelancing on [Fiverr][Fiverr]
+  
 ### Connect with me :
 
 [<img align="left" alt="FelipeCantuJr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
