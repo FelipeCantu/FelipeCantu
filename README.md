@@ -1,10 +1,10 @@
 ### Hello, I'm Felipe [felipecantujr.com][website]
 
 ## I am a Developer that loves to make music!
-- currently working on my [Trivia Project][triviaproject]!
+- currently working on a mobile application project
 - I am also looking to collaborate with developers and designers
 - 2022 - 2023 Goals: Contribute more to open source projects
-- I am currently a freelancer on fivver
+- Freelancing on [Fiverr](www.fiverr.com/felipecantu)
 
 ### Connect with me :
 
