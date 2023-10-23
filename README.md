@@ -4,7 +4,7 @@
 - currently working on my [Trivia Project][triviaproject]!
 - I am also looking to collaborate with developers and designers
 - 2022 - 2023 Goals: Contribute more to open source projects
-- I am currently a freelancer on fivver 
+- I am currently a freelancer on fivver
 
 ### Connect with me :
 
@@ -44,5 +44,5 @@
 [youtube]: https://www.youtube.com/channel/UCJy4SiZqgRlsWpYQyLpfnrg?view_as=subscriber
 [instagram]: https://www.instagram.com/son_of_robot_/
 [linkedin]: https://www.linkedin.com/in/felipe-cantu-jr/
-[Fiverr](www.fiverr.com/felipecantu)
+[Fiverr]: www.fiverr.com/felipecantu
 
