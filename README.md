@@ -4,7 +4,7 @@
 ## I am a Developer that loves to make music!
 - currently working on a mobile application project
 - I am also looking to collaborate with developers and designers
-- 2022 - 2023 Goals: Contribute more to open source projects
+- 2025 - 2026 Goals: Contribute more to open source projects
 - Freelancing on [Fiverr][Fiverr]
   
 ### Connect with me :
