@@ -78,15 +78,14 @@ Interactive tutorials and demos teaching JavaScript fundamentals
 
 <div align="center">
   
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeCantu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![Felipe's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeCantu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCantu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeCantu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeCantu&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
----
 
 ## 🌐 Connect With Me
 
