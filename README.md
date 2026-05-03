@@ -38,13 +38,37 @@ Full-stack developer passionate about building clean, high-impact web and mobile
 
 ## Featured Projects
 
-**[ GhostAudio](https://ghost-audio.vercel.app)** · [repo](https://github.com/FelipeCantu/GhostAudio)
+**[GhostAudio](https://ghost-audio.vercel.app)** · [repo](https://github.com/FelipeCantu/GhostAudio)
 Full-stack music platform with a custom backend, modern UI, and live deployment on Vercel.
 
-**[ Anakupto](https://anakupto.vercel.app/)** · [repo](https://github.com/FelipeCantu/Anakupto)
+**[Anakupto](https://anakupto.vercel.app/)** · [repo](https://github.com/FelipeCantu/Anakupto)
 Next.js web application with a clean UI, deployed and actively maintained on Vercel.
 
-**[ New Meridian](https://github.com/FelipeCantu/New-Meridian)**
+**[New Meridian](https://github.com/FelipeCantu/New-Meridian)**
+Immersive band website featuring a full 3D experience built with Three.js.
 
-**[ Quantum Gameware](https://github.com/FelipeCantu/Quantum-Gameware)**
+**[Quantum Gameware](https://github.com/FelipeCantu/Quantum-Gameware)**
 E-commerce platform for gaming accessories — Next.js, TypeScript, Stripe, PayPal, Sanity CMS, Vercel.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Felipe's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeCantu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeCantu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeCantu&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-felipecantujr.com-000?style=for-the-badge)](https://felipecantujr.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-cantu-jr/) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCJy4SiZqgRlsWpYQyLpfnrg) [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/imbigtbleed) [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/son_of_robot_/) [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/felipecantu)
+
+![Profile Views](https://komarev.com/ghpvc/?username=FelipeCantu&color=F85D7F&style=for-the-badge)
+
+</div>
