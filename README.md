@@ -55,9 +55,6 @@ Scroll-driven 3D site for a progressive post-hardcore band — the whole page is
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeCantu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeCantu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top languages" />
-
-![Profile views](https://komarev.com/ghpvc/?username=FelipeCantu&color=F85D7F&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=FelipeCantu&color=F85D7F&style=flat-square) ![Followers](https://img.shields.io/github/followers/FelipeCantu?style=flat-square&color=F85D7F)
 
 </div>
