@@ -55,6 +55,10 @@ Scroll-driven 3D site for a progressive post-hardcore band — the whole page is
 
 <div align="center">
 
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile details" width="100%" />
+<img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
+
 ![Profile views](https://komarev.com/ghpvc/?username=FelipeCantu&color=F85D7F&style=flat-square) ![Followers](https://img.shields.io/github/followers/FelipeCantu?style=flat-square&color=F85D7F)
 
 </div>
